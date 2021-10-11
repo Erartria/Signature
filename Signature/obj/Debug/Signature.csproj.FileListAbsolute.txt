@@ -1,0 +1,6 @@
+D:\Works\Current projects\Test tasks\TCP\Signature\Signature\Signature\bin\Debug\Signature.exe
+D:\Works\Current projects\Test tasks\TCP\Signature\Signature\Signature\bin\Debug\Signature.pdb
+D:\Works\Current projects\Test tasks\TCP\Signature\Signature\Signature\obj\Debug\Signature.csproj.AssemblyReference.cache
+D:\Works\Current projects\Test tasks\TCP\Signature\Signature\Signature\obj\Debug\Signature.csproj.CoreCompileInputs.cache
+D:\Works\Current projects\Test tasks\TCP\Signature\Signature\Signature\obj\Debug\Signature.exe
+D:\Works\Current projects\Test tasks\TCP\Signature\Signature\Signature\obj\Debug\Signature.pdb
