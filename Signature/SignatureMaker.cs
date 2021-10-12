@@ -5,7 +5,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Threading;
 
-namespace Signature.Properties
+namespace Signature
 {
     public class SignatureMaker
     {
@@ -42,7 +42,7 @@ namespace Signature.Properties
                 {
                    CreateFile($"Кол-во ядер: {Environment.ProcessorCount}\nКол-во потоков: {_maxThreads}\n");
                 }
-                catch (Exception ex)
+                catch (DirectoryNotFoundException)
                 {
                     throw new DirectoryNotFoundException("Не найдена директория для файла-записи");
                 }
